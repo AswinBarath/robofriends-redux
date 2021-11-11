@@ -1,7 +1,7 @@
 # Robofriends Redux
 
 <p>
-<img src="assets/Robofriends Cover design.png" alt="Robofriends Cover design" width=800px />
+<img src="assets/Robofriends Cover Design.png" alt="Robofriends Cover design" width=800px />
 </p>
 
 Robofriends Redux is an extra fun and responsive Web App with reactive user data and Random Robo Images on a responsive web layout with better performance.
